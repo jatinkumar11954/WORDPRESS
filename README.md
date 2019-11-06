@@ -1,5 +1,5 @@
 # WORDPRESS
-<h2>best and short solution for wordpress problems</h2>
+<h2>Best and Short solution for wordpress problems</h2>
 
 <h3>How to add a HTML code to wordpress ???</h3>
 Wordpress provides a wide range of plugins <br>
@@ -13,9 +13,9 @@ Elementor plugin provided by the wordpress<br>
   Ex: 1. In this page <a href="https://usoneinfotech.com/wp/transport/#goto"> click here</a><br>
   I have included the<a href="https://github.com/jatinkumar11954/WORDPRESS/blob/master/button/button.html"> button.html</a><br>
 
-    detailed explation about the code ---<a href="https://github.com/jatinkumar11954/Button">click here</a><br>
+Detailed explation about the code ---<a href="https://github.com/jatinkumar11954/Button"> click here</a><br>
 
-  just have to copy the code and paste in the short code (or) can also write in the short code block<br>
+  Just have to copy the code and paste in the short code (or) can also write in the short code block<br>
 
 <br>
 
@@ -39,27 +39,27 @@ Elementor plugin provided by the wordpress<br>
  I would recommend Buttonizer  you can visit my<a href="https://usoneinfotech.com/wp/"> wordpress site </a>I am using the same buttonizer<br>
  But it will work with several other plugin(complusory) some of them are<br>
 
-     a. pop up maker<br>
-    b. elementor pro<br>
+  a. Pop up maker<br>
+   b. Elementor pro<br>
 
-    I would suggest elementor pro <br>
+  I would suggest elementor pro <br>
 
-    I am using Elementor Pro which maker the work easier and has many option to trigger the pop up<br>
-    I am using a button as a pop up to pop a contact page<br>
-    Steps to be followed to create a button pop <br>
+  I am using Elementor Pro which maker the work easier and has many option to trigger the pop up<br>
+  I am using a button as a pop up to pop a contact page<br>
+  Steps to be followed to create a button pop <br>
 
-    1. have to install plugin called Popup Trigger URL for Elementor Pro. <a href="https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/">click here</a><br>
+  1. Have to install plugin called Popup Trigger URL for Elementor Pro. <a href="https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/">click here</a><br>
 
-    2.create a pop in the dashboard>template>popups<br>
+  2.Create a pop in the dashboard>template>popups<br>
 
-    3. edit it with elementor pro as user requires go to advanced settings> open by selector paste the id(#------) from the buttonizer.<br>
-    4. after you publish in elementor pro you have to set the condition <br>
+    3. Edit it with elementor pro as user requires go to advanced settings> open by selector paste the id(#------) from the buttonizer.<br>
+    4. After you publish in elementor pro you have to set the condition <br>
 
     <img src="https://github.com/jatinkumar11954/WORDPRESS/blob/master/images/conditions.jpg">set as in which page it has to include and which page it has to exclude.<br>
 
-    5. add trigger as to scroll to the element ( in my case clicking that buttonizer button i have to get pop up)- so copy the id of buttonizer and page in scroll to element.<br>
+    5. Add trigger as to scroll to the element ( in my case clicking that buttonizer button i have to get pop up)- so copy the id of buttonizer and page in scroll to element.<br>
 
-    6.in advance rules u can add the devices and upto how many times any other stuff,<br>
+    6.In advance rules u can add the devices and upto how many times any other stuff,<br>
     and publish you will get your button pop up ready.
 
    
