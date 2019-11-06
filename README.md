@@ -51,14 +51,13 @@ Detailed explation about the code ---<a href="https://github.com/jatinkumar11954
   1. Have to install plugin called Popup Trigger URL for Elementor Pro. <a href="https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/">click here</a><br>
 2. Create a pop in the dashboard>template>popups<br>
 
-    3. Edit it with elementor pro as user requires go to advanced settings> open by selector paste the id(#------) from the buttonizer.<br>
-    4. After you publish in elementor pro you have to set the condition <br>
+3. Edit it with elementor pro as user requires go to advanced settings> open by selector paste the id(#------) from the buttonizer.<br>
+4. After you publish in elementor pro you have to set the condition <br>
 
     <img src="https://github.com/jatinkumar11954/WORDPRESS/blob/master/images/conditions.jpg">set as in which page it has to include and which page it has to exclude.<br>
 
-    5. Add trigger as to scroll to the element ( in my case clicking that buttonizer button i have to get pop up)- so copy the id of buttonizer and page in scroll to element.<br>
-
-    6.In advance rules u can add the devices and upto how many times any other stuff,<br>
+5. Add trigger as to scroll to the element ( in my case clicking that buttonizer button i have to get pop up)- so copy the id of buttonizer and page in scroll to element.<br>
+ 6. In advance rules u can add the devices and upto how many times any other stuff,<br>
     and publish you will get your button pop up ready.
 
    
