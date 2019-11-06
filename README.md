@@ -10,13 +10,17 @@ Elementor plugin provided by the wordpress<br>
   <img src="https://github.com/jatinkumar11954/WORDPRESS/blob/master/images/shortcode.jpg"><br>
   by using the short code we can easily include our html file to wordpress<br>
 
-  Ex: 1.In this page <a href="https://usoneinfotech.com/wp/transport/#goto"> click here</a><br>
+  Ex: 1. In this page <a href="https://usoneinfotech.com/wp/transport/#goto"> click here</a><br>
   I have included the<a href="https://github.com/jatinkumar11954/WORDPRESS/blob/master/button/button.html"> button.html</a><br>
+
     detailed explation about the code ---<a href="https://github.com/jatinkumar11954/Button">click here</a><br>
+
   just have to copy the code and paste in the short code (or) can also write in the short code block<br>
 
 <br>
+
 2. In this page <a href="https://usoneinfotech.com/wp/transport/"> click here </a><br>
+
       I have included the <a href="https://github.com/jatinkumar11954/WORDPRESS/blob/master/dropdown/timeline.html"> dropdown.html</a><br>
        detailed explation about the code ---<a href="https://github.com/jatinkumar11954/drop-down">click here</a><br>
 
@@ -27,20 +31,34 @@ Elementor plugin provided by the wordpress<br>
  It gives many animation options as well as layer option anda has<br>
  controls to changes the size according to the device.<br>
  <br>
- 4. A pop up button in your word press has become an usual and needy thing<br>
+
+ <h3>How to add a button pop up to your Wordpress???</h3><br>
+<h4>DESCRIPTION</h4><br>
+
+  A pop up button in your word press has become an usual and needy thing<br>
  I would recommend Buttonizer  you can visit my<a href="https://usoneinfotech.com/wp/"> wordpress site </a>I am using the same buttonizer<br>
  But it will work with several other plugin(complusory) some of them are<br>
+
      a. pop up maker<br>
     b. elementor pro<br>
+
+    I would suggest elementor pro <br>
+
     I am using Elementor Pro which maker the work easier and has many option to trigger the pop up<br>
     I am using a button as a pop up to pop a contact page<br>
     Steps to be followed to create a button pop <br>
+
     1. have to install plugin called Popup Trigger URL for Elementor Pro. <a href="https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/">click here</a><br>
+
     2.create a pop in the dashboard>template>popups<br>
+
     3. edit it with elementor pro as user requires go to advanced settings> open by selector paste the id(#------) from the buttonizer.<br>
     4. after you publish in elementor pro you have to set the condition <br>
+
     <img src="https://github.com/jatinkumar11954/WORDPRESS/blob/master/images/conditions.jpg">set as in which page it has to include and which page it has to exclude.<br>
+
     5. add trigger as to scroll to the element ( in my case clicking that buttonizer button i have to get pop up)- so copy the id of buttonizer and page in scroll to element.<br>
+
     6.in advance rules u can add the devices and upto how many times any other stuff,<br>
     and publish you will get your button pop up ready.
 
