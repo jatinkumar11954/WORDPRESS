@@ -49,8 +49,7 @@ Detailed explation about the code ---<a href="https://github.com/jatinkumar11954
   Steps to be followed to create a button pop <br>
 
   1. Have to install plugin called Popup Trigger URL for Elementor Pro. <a href="https://wordpress.org/plugins/popup-trigger-url-for-elementor-pro/">click here</a><br>
-
-  2.Create a pop in the dashboard>template>popups<br>
+2. Create a pop in the dashboard>template>popups<br>
 
     3. Edit it with elementor pro as user requires go to advanced settings> open by selector paste the id(#------) from the buttonizer.<br>
     4. After you publish in elementor pro you have to set the condition <br>
